@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
-</div>  
-  
-
 ### Hi, I'm Hart Joseph. I work remotely as a freelance Data Analyst/Scientist. I hold a Bachelor’s Degree in Sciences (Computer Science, Rivers State University, Nigeria). I specialize in the following  
   
 

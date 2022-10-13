@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Joseph.
+- 👋 Hi, my name is Hart Joseph.
 - 👋 I'm a Data Analyst and Python Programmer.
 - 👀 I’m interested in Data and Business Analytics.
 - 🌱 I currently use Python to complement SQL and Power BI in data querrying, manipulation and visualization.
